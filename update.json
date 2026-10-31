@@ -1,13 +1,13 @@
 {
-  "build": 36,
-  "expiresAt": 1801067887,
+  "build": 37,
+  "expiresAt": 1801192159,
   "format": "DEMSET/update/v1",
-  "issuedAt": 1793291887,
+  "issuedAt": 1793416159,
   "keyId": "54d0d518b2d5a5710ab124a09e01dedefd7687c5018aa44741340ed9ebb9dce7",
   "notes": "Fixes and improvements",
-  "sha256": "22712ae8f15bc0a87dd4b7014de3d24480d1a796b249fb4d98fe1bfee425568e",
-  "signature": "543a55bf360d132ed3430809b26f19ba1b48aef71125c71a2d95d6eae0f1917ff60b6c625e1a1b7a72fa077b33c423bbac0ce2bb7bbe6217dfcc0abd1121a101",
-  "size": 60331008,
-  "url": "https://github.com/vaullto/Demset-o-realsee/releases/download/v1.0.35/DEMSET-native.exe",
-  "version": "1.0.35"
+  "sha256": "032bdd0c380b3d8cd706d0623e7b8f76f63b5f4088adcbecad0275b53a547c17",
+  "signature": "314c5cdd6d9ffd19f35b9a25c6d7c71558abeb867ce6e73ada838d9b8aca61d62a5f6517b5e1d8bbfb2b88f8400fdbc45036bf055abb6adbcb5a8d25683cdd01",
+  "size": 57360384,
+  "url": "https://github.com/vaullto/Demset-o-realsee/releases/download/v1.0.36/DEMSET-native.exe",
+  "version": "1.0.36"
 }
